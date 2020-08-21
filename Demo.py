@@ -1,1 +1,2 @@
-Print ("Hello")
+Print("Hello")
+Print(" welcome to Telsko")
